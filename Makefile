@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=tachycline.com
 SSH_PORT=22
 SSH_USER=cmckay
-SSH_TARGET_DIR=/var/www
+SSH_TARGET_DIR=www
 
 S3_BUCKET=my_s3_bucket
 
