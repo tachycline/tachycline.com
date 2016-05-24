@@ -22,6 +22,7 @@ The more practical answer is: start small, and increase until you're satisfied. 
 
 ## What kind of data do we need (or, how many/which features)?
 This question is, in many ways, more interesting than the last one. It's also harder to answer. It's where the "Domain expertise" section of the [Data Science Venn Diagram](http://www.anlytcs.com/2014/01/data-science-venn-diagram-v20.html) <sup id="a2">[2](#f2)</sup> comes into play. An ideal collection of features would consist of features that are:
+
 * strongly correlated with whatever it is you're trying to predict,
 * more or less equal in magnitude, and
 * relatively independent of each other.
